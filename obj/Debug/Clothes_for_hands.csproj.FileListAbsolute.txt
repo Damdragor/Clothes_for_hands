@@ -1,0 +1,17 @@
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\bin\Debug\Clothes_for_hands.exe.config
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\bin\Debug\Clothes_for_hands.exe
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\bin\Debug\Clothes_for_hands.pdb
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\bin\Debug\EntityFramework.dll
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\bin\Debug\EntityFramework.SqlServer.dll
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\bin\Debug\EntityFramework.xml
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\bin\Debug\EntityFramework.SqlServer.xml
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.csprojAssemblyReference.cache
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.Form1.resources
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.Properties.Resources.resources
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.csproj.GenerateResource.cache
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.csproj.CopyComplete
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.exe
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.pdb
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.Form2.resources
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.Form3.resources
+D:\4-IS_MlkNik\c#\ClothesForHands\Clothes_for_hands\obj\Debug\Clothes_for_hands.Form4.resources
